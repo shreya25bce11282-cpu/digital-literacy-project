@@ -1,9 +1,13 @@
 # CSE0001 – Digital Literacy Project
 
 **Name:** Shreya Adhikary
+
 **Registration Number:** 25BCE11282
+
 **Branch:** B.Tech CSE Core
+
 **Year:** First Year
+
 **Institution:** VIT Bhopal University
 
 ---
