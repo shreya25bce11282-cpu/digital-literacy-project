@@ -1,0 +1,17 @@
+Part A - HackerRank:
+Platform: hackerrank.com
+Completed 3 beginner level Python challenges and earned a badge.
+Problems solved involved arithmetic operations and integer 
+sequences. Screenshots of completed challenges and badge 
+are included in this folder.
+
+Part B - Google Forms:
+Created a Digital Literacy Awareness Quiz with 5 questions:
+- 3 multiple choice questions
+- 2 short answer questions
+
+Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd_-xR6vpgGYaXgFyAyuq66UslN1EVtdvxVF2G4TRrFS8TYHQ/viewform?usp=dialog
+
+Responses are linked to a Google Sheet for automatic collection.
+Screenshots of the form and linked Google Sheet are included 
+in this folder.
