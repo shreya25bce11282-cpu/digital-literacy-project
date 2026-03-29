@@ -39,4 +39,21 @@ uses the victim's identity to commit further crimes, which
 can lead to legal complications for the victim themselves 
 even though they are the ones who were wronged.
 
+## Scenario:
+
+Riya, a first year engineering student at a college in Bhopal, 
+received an email one morning that appeared to be from her 
+university's finance department. The email stated that her 
+semester fee payment had failed and that her enrollment would 
+be cancelled within 24 hours unless she re verified her payment 
+details immediately. Panicking, Riya clicked the link in the 
+email which took her to a page that looked exactly like her 
+university portal. She entered her student ID, password, and 
+UPI PIN. Within minutes, Rs. 15,000 was debited from her 
+account. When she called the university helpdesk, she learned 
+that the email had never been sent by them. Riya had fallen 
+victim to a phishing attack. She reported the incident to 
+cybercrime.gov.in and called helpline 1930, but recovering 
+the money proved difficult.
+
 Source: cybercrime.gov.in | CERT-In Advisories
