@@ -33,6 +33,36 @@ communication, and cybersecurity awareness.
 | Task 4 | Professional Email & Etiquette Guide | ✅ Done |
 | Task 5 | Cybercrime Awareness Case Study | ✅ Done |
 
+
+### Task 1 – Digital Literacy Awareness Infographic
+Created a single page infographic using Canva covering four topics:
+what digital literacy means, safe internet practices, building a
+professional digital identity, and email etiquette. The design uses
+a dark blue theme with icons to make information visually engaging.
+
+### Task 2 – Student Digital Portfolio
+Set up and updated profiles on three platforms — GitHub, LinkedIn,
+and Kaggle. Created a GitHub profile README with my name, branch,
+and learning goals. Updated LinkedIn with current education details.
+Created a Kaggle profile as a starting point for data science.
+
+### Task 3 – Coding & Collaboration Platforms
+Completed three beginner level Python challenges on HackerRank and
+earned a badge. Built a five question Digital Literacy Awareness Quiz
+using Google Forms with responses linked to a Google Sheet.
+
+### Task 4 – Professional Email & Etiquette Guide
+Wrote two professional emails — one requesting an assignment extension
+from a professor, and one expressing interest in a summer internship.
+Also created a Social Media Do's and Don'ts checklist with 10 points.
+
+### Task 5 – Cybercrime Awareness Case Study
+Researched phishing and wrote a 230 word case study including a
+realistic fictional scenario of a college student falling victim to
+a phishing attack. Created a prevention checklist with 10 tips
+including two specific to UPI safety, and included the national
+cybercrime helpline 1930 and cybercrime.gov.in.
+
 ---
 
 ## Important Links
